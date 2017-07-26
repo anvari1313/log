@@ -1,0 +1,14 @@
+{
+  "name": "i1920-log",
+  "version": "1.0.0",
+  "description": "The log microservice of the giant I1920 project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@anvari1313 @amirmh @aliizadi",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.9.3"
+  }
+}
