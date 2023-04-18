@@ -9,6 +9,6 @@
   "author": "@anvari1313 @amirmh @aliizadi",
   "license": "ISC",
   "dependencies": {
-    "mqtt": "^2.9.3"
+    "mqtt": "^2.15.0"
   }
 }
